@@ -7,7 +7,7 @@ Pick a base brand color (or paste a hex value) and ColorSystem generates a compl
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourusername/ColorSystem
+git clone https://github.com/MrHassan2027/ColorSystem
 npm install && npm run dev
 # Open http://localhost:5173
 ```
